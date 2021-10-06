@@ -1,16 +1,11 @@
-# beta_test
+# **Login Page UI for Flutter App**
+### Experimental App made using Flutter
+## Description
+An Awesome UI for different application on Android and IOS.
 
-A new Flutter project.
+**NOTE** : It is an Educational Project.
 
-## Getting Started
+**This is currently OnGoing Project**
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![Music](https://user-images.githubusercontent.com/82898989/136272524-fa8ca8be-43a4-406c-bd94-7cef322ac5f9.png)
