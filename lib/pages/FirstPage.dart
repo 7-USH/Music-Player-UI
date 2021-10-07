@@ -128,7 +128,7 @@ class _FirstPageState extends State<FirstPage>
 
   onTapUP(TapUpDetails details) {
     _newController.reverse();
-    Get.toNamed("/secondPage");
+  Get.toNamed("/secondPage");
   }
 
   onTapCancel() {
